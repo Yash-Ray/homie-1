@@ -2,7 +2,7 @@ const express = require("express");
 const cookieParser = require("cookie-parser");
 const db = require("./config/mongoose");
 const app = express();
-const port = 8000;
+const port = process.env.PORT || 8000;
 app.use(express.urlencoded());
 
 app.use(cookieParser());
