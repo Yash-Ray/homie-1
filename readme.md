@@ -1,4 +1,4 @@
-<p align='center'><img src='https://raw.githubusercontent.com/Yash-Ray/homie/1d43d6a1e5e6b8caa88a01653c4334f0384e4fee/assets/images/Mood_Illustration.svg' alt='logo' height=150 width=150></p>
+<p align='center'><img src='https://raw.githubusercontent.com/Yash-Ray/Hack_Frontend/4d197341002083b89d11733af620f639668d8175/FrontEnd/assets/Mood_Illustration.svg' alt='logo' height=150 width=150></p>
 <h1 align='center'>homie</h1>
 <h3 align='center'>END the hesitation</h3>
 <h5>Below are the useful links to other parts of our project:</h5>
