@@ -2,13 +2,16 @@ const mongoose = require("mongoose");
 
 const playListSchema = new mongoose.Schema(
   {
-    playlist: {
+    song: {
       type: String,
     },
     image: {
       type: String,
     },
     mood: {
+      type: String,
+    },
+    songName: {
       type: String,
     },
   },

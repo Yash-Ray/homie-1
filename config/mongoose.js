@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost/Mood_Detector");
+mongoose.connect("mongodb://localhost/Mood_Detector_new");
 
 const db = mongoose.connection;
 
